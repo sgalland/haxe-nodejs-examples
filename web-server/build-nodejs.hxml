@@ -1,0 +1,9 @@
+-lib hxnodejs
+-cp src
+-D analyzer-optimize
+-main Main
+-lib hxnodejs
+-js js/main.js
+-dce full
+-resource templates/shared/template.mtt@template
+-resource templates/home/index.mtt@home_index

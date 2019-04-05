@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div>Template Start</div>
+    ::content::
+<div>Template End</div>
+</body>
+</html>
